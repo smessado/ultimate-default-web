@@ -6,7 +6,7 @@ Commit #3 during squash activity (modified)
 
 Commit #4 during squash activity (modified #2)
 
-Commit #5 during squash activity
+Commit #5 during squash activity (modified)
 
 Commit #6 during squash activity
 
